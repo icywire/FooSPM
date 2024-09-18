@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FooLib",
-            url: "https://github.com/icywire/FooSPM/releases/download/v1.0.0/FooLib.xcframework.zip",
-            checksum: "00bae514fc90fc65800844113e6274c1d84cad285b4a3a5b1cacab5fcb4fe006"
+            url: "https://github.com/icywire/FooSPM/releases/download/v2.0.0/FooLib.xcframework.zip",
+            checksum: "83c72e301a8e64b1da04ee04c7ea3dc04c6f16d3c809184edb0b3ff901f0e813"
         )
     ]
 )
